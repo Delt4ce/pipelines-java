@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Eliorr/first-java-pipeline/_apis/build/status/Delt4ce.pipelines-java?branchName=master)](https://dev.azure.com/Eliorr/first-java-pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
